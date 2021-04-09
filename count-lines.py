@@ -1,4 +1,8 @@
-import sys
+"""This module  counts the number of lines in standard input
+Input: any string from thr system standard input
+"""
+impo
+ort sys
 
 count = 0
 
